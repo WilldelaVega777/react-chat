@@ -1,0 +1,12 @@
+.unauthorized
+{
+    display: flex;
+    margin: auto;
+    height: 100vh;
+}
+
+.content__centered
+{
+    margin: auto;
+    flex: 1;
+}
